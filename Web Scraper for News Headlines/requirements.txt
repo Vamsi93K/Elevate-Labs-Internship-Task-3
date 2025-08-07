@@ -1,0 +1,3 @@
+requests          # For sending HTTP requests to fetch web pages
+beautifulsoup4    # For parsing and extracting data from HTML
+lxml              # Optional parser for faster and more accurate HTML parsing
